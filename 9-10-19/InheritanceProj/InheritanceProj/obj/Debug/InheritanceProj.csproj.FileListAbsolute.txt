@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\InheritanceProj\InheritanceProj\bin\Debug\InheritanceProj.exe.config
+C:\Users\Administrator\source\repos\InheritanceProj\InheritanceProj\bin\Debug\InheritanceProj.exe
+C:\Users\Administrator\source\repos\InheritanceProj\InheritanceProj\bin\Debug\InheritanceProj.pdb
+C:\Users\Administrator\source\repos\InheritanceProj\InheritanceProj\obj\Debug\InheritanceProj.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\InheritanceProj\InheritanceProj\obj\Debug\InheritanceProj.exe
+C:\Users\Administrator\source\repos\InheritanceProj\InheritanceProj\obj\Debug\InheritanceProj.pdb

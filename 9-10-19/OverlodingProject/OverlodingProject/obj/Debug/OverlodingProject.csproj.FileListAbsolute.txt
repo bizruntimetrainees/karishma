@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\OverlodingProject\OverlodingProject\bin\Debug\OverlodingProject.exe.config
+C:\Users\Administrator\source\repos\OverlodingProject\OverlodingProject\bin\Debug\OverlodingProject.exe
+C:\Users\Administrator\source\repos\OverlodingProject\OverlodingProject\bin\Debug\OverlodingProject.pdb
+C:\Users\Administrator\source\repos\OverlodingProject\OverlodingProject\obj\Debug\OverlodingProject.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\OverlodingProject\OverlodingProject\obj\Debug\OverlodingProject.exe
+C:\Users\Administrator\source\repos\OverlodingProject\OverlodingProject\obj\Debug\OverlodingProject.pdb
