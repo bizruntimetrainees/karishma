@@ -1,6 +1,0 @@
-C:\Users\Administrator\source\repos\OverriddenProject\OverriddenProject\bin\Debug\OverriddenProject.exe.config
-C:\Users\Administrator\source\repos\OverriddenProject\OverriddenProject\bin\Debug\OverriddenProject.exe
-C:\Users\Administrator\source\repos\OverriddenProject\OverriddenProject\bin\Debug\OverriddenProject.pdb
-C:\Users\Administrator\source\repos\OverriddenProject\OverriddenProject\obj\Debug\OverriddenProject.csprojAssemblyReference.cache
-C:\Users\Administrator\source\repos\OverriddenProject\OverriddenProject\obj\Debug\OverriddenProject.exe
-C:\Users\Administrator\source\repos\OverriddenProject\OverriddenProject\obj\Debug\OverriddenProject.pdb

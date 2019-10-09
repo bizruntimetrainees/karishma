@@ -1,6 +1,0 @@
-C:\Users\Administrator\source\repos\HiddingProject\HiddingProject\bin\Debug\HiddingProject.exe.config
-C:\Users\Administrator\source\repos\HiddingProject\HiddingProject\bin\Debug\HiddingProject.exe
-C:\Users\Administrator\source\repos\HiddingProject\HiddingProject\bin\Debug\HiddingProject.pdb
-C:\Users\Administrator\source\repos\HiddingProject\HiddingProject\obj\Debug\HiddingProject.csprojAssemblyReference.cache
-C:\Users\Administrator\source\repos\HiddingProject\HiddingProject\obj\Debug\HiddingProject.exe
-C:\Users\Administrator\source\repos\HiddingProject\HiddingProject\obj\Debug\HiddingProject.pdb
