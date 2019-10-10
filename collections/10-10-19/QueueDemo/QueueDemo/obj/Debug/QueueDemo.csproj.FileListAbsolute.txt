@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\QueueDemo\QueueDemo\obj\Debug\QueueDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\QueueDemo\QueueDemo\bin\Debug\QueueDemo.exe.config
+C:\Users\Administrator\source\repos\QueueDemo\QueueDemo\bin\Debug\QueueDemo.exe
+C:\Users\Administrator\source\repos\QueueDemo\QueueDemo\bin\Debug\QueueDemo.pdb
+C:\Users\Administrator\source\repos\QueueDemo\QueueDemo\obj\Debug\QueueDemo.exe
+C:\Users\Administrator\source\repos\QueueDemo\QueueDemo\obj\Debug\QueueDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\CollectionDemo\CollectionDemo\bin\Debug\CollectionDemo.exe.config
+C:\Users\Administrator\source\repos\CollectionDemo\CollectionDemo\bin\Debug\CollectionDemo.exe
+C:\Users\Administrator\source\repos\CollectionDemo\CollectionDemo\bin\Debug\CollectionDemo.pdb
+C:\Users\Administrator\source\repos\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.exe
+C:\Users\Administrator\source\repos\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.pdb
