@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\InterfaceDemo3\InterfaceDemo3\bin\Debug\InterfaceDemo3.exe.config
+C:\Users\Administrator\source\repos\InterfaceDemo3\InterfaceDemo3\bin\Debug\InterfaceDemo3.exe
+C:\Users\Administrator\source\repos\InterfaceDemo3\InterfaceDemo3\bin\Debug\InterfaceDemo3.pdb
+C:\Users\Administrator\source\repos\InterfaceDemo3\InterfaceDemo3\obj\Debug\InterfaceDemo3.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\InterfaceDemo3\InterfaceDemo3\obj\Debug\InterfaceDemo3.exe
+C:\Users\Administrator\source\repos\InterfaceDemo3\InterfaceDemo3\obj\Debug\InterfaceDemo3.pdb

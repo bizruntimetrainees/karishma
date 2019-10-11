@@ -1,0 +1,27 @@
+h1{
+    color:blue;
+}
+    
+pre{
+    color: orangered;
+    -webkit-column-rule-color: orangereds;
+    -webkit-column-count:1;
+    font-size:13px;
+    
+    
+    
+    div{
+        
+        
+    
+    test-align:justify;
+    -webkit-column-count:4;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
+    }
+}
+
+body{
+    background-image: url("image2.jpg");
+}
