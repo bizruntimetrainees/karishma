@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+        function UpperCase()
+        {
+    var x=document.getElementById("fname");
+    x.value=x.value.toUpperCase();
+        }
+        function LowerCase()
+        {
+    var x=document.getElementById("lname");
+    x.value=x.value.toLowerCase();
+        }
+
+
+      
+        
+        
+        </script>
+
+    
+</head>
+<body >
+    <form>
+        <lable> Enter Name in lowerCase:</lable><br/>
+        <input type="text" id="fname" onblur="UpperCase()"><br/>
+        <input type='password' name="psw"><br/>
+        <lable> Enter Name in upperCase:</lable><br/>
+        <input type="text" id="lname" onblur="LowerCase()"><br/>
+        <input type='password' name="psw"><br/>
+
+    </form>
+    <p >
+         it converts the text
+    </p>
+    
+</body>
+
+</html>
