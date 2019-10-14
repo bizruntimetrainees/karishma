@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\EventProject4\EventProject4\obj\Debug\EventProject4.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\EventProject4\EventProject4\bin\Debug\EventProject4.exe.config
+C:\Users\Administrator\source\repos\EventProject4\EventProject4\bin\Debug\EventProject4.exe
+C:\Users\Administrator\source\repos\EventProject4\EventProject4\bin\Debug\EventProject4.pdb
+C:\Users\Administrator\source\repos\EventProject4\EventProject4\obj\Debug\EventProject4.exe
+C:\Users\Administrator\source\repos\EventProject4\EventProject4\obj\Debug\EventProject4.pdb

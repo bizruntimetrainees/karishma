@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\EventsProject2\EventsProject2\bin\Debug\EventsProject2.exe.config
+C:\Users\Administrator\source\repos\EventsProject2\EventsProject2\bin\Debug\EventsProject2.exe
+C:\Users\Administrator\source\repos\EventsProject2\EventsProject2\bin\Debug\EventsProject2.pdb
+C:\Users\Administrator\source\repos\EventsProject2\EventsProject2\obj\Debug\EventsProject2.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\EventsProject2\EventsProject2\obj\Debug\EventsProject2.exe
+C:\Users\Administrator\source\repos\EventsProject2\EventsProject2\obj\Debug\EventsProject2.pdb
