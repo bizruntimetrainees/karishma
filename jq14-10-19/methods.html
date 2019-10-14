@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="jquery.js">
+	</script>
+	<script>
+		$(document).ready(function () {
+
+			$('#div1').after('<div style="background-color:red"> after the first line program to excecute </div>');
+            $('#div2').after('<div style="background-color:orange"> after the second line program to excecute </div>');
+		});
+	</script>
+	<style>
+		div{
+			border: 1px solid;
+			background-color:mediumaquamarine;
+			margin: 2px 0 2px 0;
+		}
+	</style>
+</head>
+<body>
+	<h1>jQuery after() method </h1>
+
+	<div id="div1"> the first line
+	</div>
+
+	<div id="div2">the second line
+	</div>
+</body>
+</html>

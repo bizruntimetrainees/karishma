@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="jquery.js">
+    </script>
+    <script>
+        $(document).ready(function () {
+       
+            $('[class]').append('this code is combined with another code');
+            $('p, div, code').append(" element");
+            $('div p').append("****");
+            $('div > p').append("@@@@");
+            $('p#myPrg').append('1');
+            $('div[class]').append(' ............hi');
+
+        
+            
+        });
+    </script>
+<style>
+	div{
+		border: 1px solid;
+	}
+        
+	p{
+		border: 1px dashed;
+	}
+
+	.solidprg{
+		border: 1px dashed;
+		font-weight:bold;
+	}
+
+	.yellowDiv{
+		border: 1px solid;
+		background-color:lime;
+	}
+    .yellowPrg{
+		border: 1px solid;
+		background-color:magenta;
+	}
+    
+</style>
+</head>
+<body>   
+	
+	<p id="impPrg" class="solidprg"></p>
+    
+
+    <div id="myDiv2" class="yellowDiv"></div>
+    <div> 
+            <p id="myPrg" class="yellowPrg"></p>
+    </div>
+</body>
+</html>
