@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="jquery.js"></script>
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+      $("p:hidden").show();
+  });
+});
+</script>
+</head>
+<body>
+<div style="display:none">hidden data is visible</div>
+<p style="display:none">this is a hidden one .after clicking button i will display.</p>
+<p >Click me away!</p>
+<p>Click me too!</p>
+<button> click me</button>
+
+</body>
+</html>
