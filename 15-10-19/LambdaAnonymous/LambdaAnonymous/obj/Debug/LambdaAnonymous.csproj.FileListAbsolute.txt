@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\LambdaAnonymous\LambdaAnonymous\obj\Debug\LambdaAnonymous.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\LambdaAnonymous\LambdaAnonymous\bin\Debug\LambdaAnonymous.exe.config
+C:\Users\Administrator\source\repos\LambdaAnonymous\LambdaAnonymous\bin\Debug\LambdaAnonymous.exe
+C:\Users\Administrator\source\repos\LambdaAnonymous\LambdaAnonymous\bin\Debug\LambdaAnonymous.pdb
+C:\Users\Administrator\source\repos\LambdaAnonymous\LambdaAnonymous\obj\Debug\LambdaAnonymous.exe
+C:\Users\Administrator\source\repos\LambdaAnonymous\LambdaAnonymous\obj\Debug\LambdaAnonymous.pdb

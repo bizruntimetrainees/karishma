@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\DelegateProject\DelegateProject\bin\Debug\DelegateProject.exe.config
+C:\Users\Administrator\source\repos\DelegateProject\DelegateProject\bin\Debug\DelegateProject.exe
+C:\Users\Administrator\source\repos\DelegateProject\DelegateProject\bin\Debug\DelegateProject.pdb
+C:\Users\Administrator\source\repos\DelegateProject\DelegateProject\obj\Debug\DelegateProject.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DelegateProject\DelegateProject\obj\Debug\DelegateProject.exe
+C:\Users\Administrator\source\repos\DelegateProject\DelegateProject\obj\Debug\DelegateProject.pdb

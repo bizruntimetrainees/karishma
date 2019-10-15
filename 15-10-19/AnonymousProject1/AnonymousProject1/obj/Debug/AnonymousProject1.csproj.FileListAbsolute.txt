@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\AnonymousProject1\AnonymousProject1\bin\Debug\AnonymousProject1.exe.config
+C:\Users\Administrator\source\repos\AnonymousProject1\AnonymousProject1\bin\Debug\AnonymousProject1.exe
+C:\Users\Administrator\source\repos\AnonymousProject1\AnonymousProject1\bin\Debug\AnonymousProject1.pdb
+C:\Users\Administrator\source\repos\AnonymousProject1\AnonymousProject1\obj\Debug\AnonymousProject1.exe
+C:\Users\Administrator\source\repos\AnonymousProject1\AnonymousProject1\obj\Debug\AnonymousProject1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\AnomymousProject\AnomymousProject\obj\Debug\AnomymousProject.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\AnomymousProject\AnomymousProject\bin\Debug\AnomymousProject.exe.config
+C:\Users\Administrator\source\repos\AnomymousProject\AnomymousProject\bin\Debug\AnomymousProject.exe
+C:\Users\Administrator\source\repos\AnomymousProject\AnomymousProject\bin\Debug\AnomymousProject.pdb
+C:\Users\Administrator\source\repos\AnomymousProject\AnomymousProject\obj\Debug\AnomymousProject.exe
+C:\Users\Administrator\source\repos\AnomymousProject\AnomymousProject\obj\Debug\AnomymousProject.pdb

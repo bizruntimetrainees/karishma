@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\PredefineDelegates\PredefineDelegates\obj\Debug\PredefineDelegates.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PredefineDelegates\PredefineDelegates\bin\Debug\PredefineDelegates.exe.config
+C:\Users\Administrator\source\repos\PredefineDelegates\PredefineDelegates\bin\Debug\PredefineDelegates.exe
+C:\Users\Administrator\source\repos\PredefineDelegates\PredefineDelegates\bin\Debug\PredefineDelegates.pdb
+C:\Users\Administrator\source\repos\PredefineDelegates\PredefineDelegates\obj\Debug\PredefineDelegates.exe
+C:\Users\Administrator\source\repos\PredefineDelegates\PredefineDelegates\obj\Debug\PredefineDelegates.pdb
