@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\AsyncAwaitproject\AsyncAwaitproject\obj\Debug\AsyncAwaitproject.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\AsyncAwaitproject\AsyncAwaitproject\bin\Debug\AsyncAwaitproject.exe.config
+C:\Users\Administrator\source\repos\AsyncAwaitproject\AsyncAwaitproject\bin\Debug\AsyncAwaitproject.exe
+C:\Users\Administrator\source\repos\AsyncAwaitproject\AsyncAwaitproject\bin\Debug\AsyncAwaitproject.pdb
+C:\Users\Administrator\source\repos\AsyncAwaitproject\AsyncAwaitproject\obj\Debug\AsyncAwaitproject.exe
+C:\Users\Administrator\source\repos\AsyncAwaitproject\AsyncAwaitproject\obj\Debug\AsyncAwaitproject.pdb

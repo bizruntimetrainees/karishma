@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\AsyncThread\AsyncThread\bin\Debug\AsyncThread.exe.config
+C:\Users\Administrator\source\repos\AsyncThread\AsyncThread\bin\Debug\AsyncThread.exe
+C:\Users\Administrator\source\repos\AsyncThread\AsyncThread\bin\Debug\AsyncThread.pdb
+C:\Users\Administrator\source\repos\AsyncThread\AsyncThread\obj\Debug\AsyncThread.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\AsyncThread\AsyncThread\obj\Debug\AsyncThread.exe
+C:\Users\Administrator\source\repos\AsyncThread\AsyncThread\obj\Debug\AsyncThread.pdb
