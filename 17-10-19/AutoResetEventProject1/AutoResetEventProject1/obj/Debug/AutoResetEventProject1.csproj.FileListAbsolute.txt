@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\AutoResetEventProject1\AutoResetEventProject1\bin\Debug\AutoResetEventProject1.exe.config
+C:\Users\Administrator\source\repos\AutoResetEventProject1\AutoResetEventProject1\bin\Debug\AutoResetEventProject1.exe
+C:\Users\Administrator\source\repos\AutoResetEventProject1\AutoResetEventProject1\bin\Debug\AutoResetEventProject1.pdb
+C:\Users\Administrator\source\repos\AutoResetEventProject1\AutoResetEventProject1\obj\Debug\AutoResetEventProject1.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\AutoResetEventProject1\AutoResetEventProject1\obj\Debug\AutoResetEventProject1.exe
+C:\Users\Administrator\source\repos\AutoResetEventProject1\AutoResetEventProject1\obj\Debug\AutoResetEventProject1.pdb

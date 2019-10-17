@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\ManualResetEvent\ManualResetEvent\bin\Debug\ManualResetEvent.exe.config
+C:\Users\Administrator\source\repos\ManualResetEvent\ManualResetEvent\bin\Debug\ManualResetEvent.exe
+C:\Users\Administrator\source\repos\ManualResetEvent\ManualResetEvent\bin\Debug\ManualResetEvent.pdb
+C:\Users\Administrator\source\repos\ManualResetEvent\ManualResetEvent\obj\Debug\ManualResetEvent.exe
+C:\Users\Administrator\source\repos\ManualResetEvent\ManualResetEvent\obj\Debug\ManualResetEvent.pdb
