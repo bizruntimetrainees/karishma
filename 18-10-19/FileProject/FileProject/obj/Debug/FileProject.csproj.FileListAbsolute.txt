@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\FileProject\FileProject\obj\Debug\FileProject.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\FileProject\FileProject\bin\Debug\FileProject.exe.config
+C:\Users\Administrator\source\repos\FileProject\FileProject\bin\Debug\FileProject.exe
+C:\Users\Administrator\source\repos\FileProject\FileProject\bin\Debug\FileProject.pdb
+C:\Users\Administrator\source\repos\FileProject\FileProject\obj\Debug\FileProject.exe
+C:\Users\Administrator\source\repos\FileProject\FileProject\obj\Debug\FileProject.pdb

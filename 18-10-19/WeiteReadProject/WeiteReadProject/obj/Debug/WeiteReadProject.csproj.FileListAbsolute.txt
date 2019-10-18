@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\WeiteReadProject\WeiteReadProject\bin\Debug\WeiteReadProject.exe.config
+C:\Users\Administrator\source\repos\WeiteReadProject\WeiteReadProject\bin\Debug\WeiteReadProject.exe
+C:\Users\Administrator\source\repos\WeiteReadProject\WeiteReadProject\bin\Debug\WeiteReadProject.pdb
+C:\Users\Administrator\source\repos\WeiteReadProject\WeiteReadProject\obj\Debug\WeiteReadProject.exe
+C:\Users\Administrator\source\repos\WeiteReadProject\WeiteReadProject\obj\Debug\WeiteReadProject.pdb

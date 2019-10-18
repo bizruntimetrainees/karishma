@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\FileLoopProject\FileLoopProject\bin\Debug\FileLoopProject.exe.config
+C:\Users\Administrator\source\repos\FileLoopProject\FileLoopProject\bin\Debug\FileLoopProject.exe
+C:\Users\Administrator\source\repos\FileLoopProject\FileLoopProject\bin\Debug\FileLoopProject.pdb
+C:\Users\Administrator\source\repos\FileLoopProject\FileLoopProject\obj\Debug\FileLoopProject.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\FileLoopProject\FileLoopProject\obj\Debug\FileLoopProject.exe
+C:\Users\Administrator\source\repos\FileLoopProject\FileLoopProject\obj\Debug\FileLoopProject.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\AdvanceFileProject\AdvanceFileProject\bin\Debug\AdvanceFileProject.exe.config
+C:\Users\Administrator\source\repos\AdvanceFileProject\AdvanceFileProject\bin\Debug\AdvanceFileProject.exe
+C:\Users\Administrator\source\repos\AdvanceFileProject\AdvanceFileProject\bin\Debug\AdvanceFileProject.pdb
+C:\Users\Administrator\source\repos\AdvanceFileProject\AdvanceFileProject\obj\Debug\AdvanceFileProject.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\AdvanceFileProject\AdvanceFileProject\obj\Debug\AdvanceFileProject.exe
+C:\Users\Administrator\source\repos\AdvanceFileProject\AdvanceFileProject\obj\Debug\AdvanceFileProject.pdb
