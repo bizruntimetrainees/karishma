@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\SocketProject\SocketProject\obj\Debug\SocketProject.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SocketProject\SocketProject\bin\Debug\SocketProject.exe.config
+C:\Users\Administrator\source\repos\SocketProject\SocketProject\bin\Debug\SocketProject.exe
+C:\Users\Administrator\source\repos\SocketProject\SocketProject\bin\Debug\SocketProject.pdb
+C:\Users\Administrator\source\repos\SocketProject\SocketProject\obj\Debug\SocketProject.exe
+C:\Users\Administrator\source\repos\SocketProject\SocketProject\obj\Debug\SocketProject.pdb
