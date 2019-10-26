@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\SqlQueries\SqlQueries\obj\Debug\SqlQueries.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SqlQueries\SqlQueries\bin\Debug\SqlQueries.exe.config
+C:\Users\Administrator\source\repos\SqlQueries\SqlQueries\bin\Debug\SqlQueries.exe
+C:\Users\Administrator\source\repos\SqlQueries\SqlQueries\bin\Debug\SqlQueries.pdb
+C:\Users\Administrator\source\repos\SqlQueries\SqlQueries\obj\Debug\SqlQueries.exe
+C:\Users\Administrator\source\repos\SqlQueries\SqlQueries\obj\Debug\SqlQueries.pdb
