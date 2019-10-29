@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>jQuery Add / Remove Table Rows Dynamically</title>
+<style>
+  ..dynamicTable1{
+	width:50%;
+  }
+</style>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script>
+
+
+    $(document).ready(function() {
+        var id = 0;
+      $("#addrow").click(function() {
+        id++;           
+        var row = $('.samplerow tr').clone(true);
+        row.find("input:text").val("");
+        row.attr('id',id); 
+        row.appendTo('#dynamicTable1');        
+        return false;
+    });        
+        
+  $('.remove').on("click", function() {
+  $(this).parents("tr").remove();
+});
+});
+   
+</script>
+</head>
+<body>
+    <table id="dynamicTable1">
+        <thead>
+            <th>foo1</th>
+            <th>foo2</th>
+        </thead>
+      <tr id="0">
+        <td><input type="text" id="fld1"/></td>
+        <td><input type="text" id="fld2"/></td>
+         <td><button class="remove">Remove</button></td>
+      </tr>
+    </table>
+
+  <input type="button" id="addrow" value="Add New Row" />
+
+  <table class="samplerow" style="display:none">
+    <tr>
+      <td><input type="text" id="fld1"/></td>
+      <td><input type="text" id="fld2"/></td>
+       <td><button class="remove">Remove</button></td>
+    </tr>
+  </table>
+</body> 
+</html>                            
