@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\ActionMethodsProject\ActionMethodsProject\obj\Debug\ActionMethodsProject.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ActionMethodsProject\ActionMethodsProject\bin\Debug\ActionMethodsProject.exe.config
+C:\Users\Administrator\source\repos\ActionMethodsProject\ActionMethodsProject\bin\Debug\ActionMethodsProject.exe
+C:\Users\Administrator\source\repos\ActionMethodsProject\ActionMethodsProject\bin\Debug\ActionMethodsProject.pdb
+C:\Users\Administrator\source\repos\ActionMethodsProject\ActionMethodsProject\obj\Debug\ActionMethodsProject.exe
+C:\Users\Administrator\source\repos\ActionMethodsProject\ActionMethodsProject\obj\Debug\ActionMethodsProject.pdb
