@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <style>
+            .er {
+                color: rgb(174, 0, 255)
+               
+            }
+        </style>
+   
+</head>
+<body>
+        <p5>Error: This is dummy error.</p5>
+    <div>
+        <p id="s"></p>
+        <p1> Hello 
+                <p2>  welcome </p2>
+        </p1>
+        
+    </div>
+    <p1> Hi</p1>
+    <div>
+            <p></p>
+            <p3>remove method</p3>
+            <p4>this is replaced  the inner html  </p4>
+    </div>
+
+    
+    <script>
+        d3.selectAll("p").text("This is paragraph.").style("color",'red');
+        d3.select("div").append("p1")
+        
+        d3.select("p1").append("p2")
+        d3.select("#s").append("p").text("first paragraph.").style('color','blue');
+        d3.selectAll("div").insert("p").text("Second paragraph.").style('color','orange')
+        d3.select("p3").remove();
+        d3.select("p4").html("<span>This was added in HTML</span>");
+        d3.select("p5").attr("class","er");
+        d3.select("input").property("checkbox",true);
+        
+        
+    </script>
+
+    <form action="C:\Users\Rajesh\Desktop\javascript\d3 js/index.txt" method="get">
+        
+    
+    
+        <input  type="checkbox" name="vehicle" value="Car" checked> I have a car<br>
+        <input  type="checkbox" name="vehicle" value="bike" checked> I have a bike<br>
+        <input type="submit" value="Submit">
+      </form>
+      
+</body>
+</html>

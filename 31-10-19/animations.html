@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+                <style>
+        #container {
+            height: 100px;
+            width: 10px;
+            background-color:rgb(230, 192, 255);
+            float:none;
+
+        }
+        #container1 {
+            height: 100px;
+            width: 10px;
+            background-color:yellowgreen;
+            float:left;
+            offset-distance:10,10%;
+        }
+                </style>
+                <script src="https://d3js.org/d3.v4.min.js"></script>
+</head>
+<body>
+<div id="container"></div></br>
+<div id="container1"></div></br>
+<div id="container"></div></br>
+
+
+<script>
+    var t = d3.transition()
+        .duration(5000)
+        d3.selectAll("#container1")
+      .transition(t)
+      .style("background-color", "blue");
+
+    d3.selectAll("#container")
+      .transition()
+      .duration(5000)
+      .style("background-color", "orange");
+
+      
+</script>
+</body>
+</html>

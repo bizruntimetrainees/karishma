@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <style>
+        .myclass{
+            color:'red'
+        }
+    </style>
+</head>
+<body>
+    <p class="myclass ">Hi </p>
+    <p>Hello</p>
+    <p class="myclass ">World</p>
+    <p id="p1">First paragraph</p>
+    <table>
+        <tr>
+            <td>
+                Hello
+            </td>
+            <td>
+                World
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Welcome to
+            </td>
+            <td>
+            D3 js
+            </td>
+        </tr>
+        </table>
+
+    <script>
+        d3.selectAll(".myclass ").style("color","green");
+        d3.select("#p1").style("color", "red");
+        d3.select("tr").selectAll("td").style('background-color','yellow');
+    </script>
+</body>
+</html>
