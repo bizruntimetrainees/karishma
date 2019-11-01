@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <script src="https://d3js.org/d3.v4.min.js">
+        </script>
+    
+</head>
+<body>
+    <script>
+        var array = [{foo: 42}, {foo: 91},{foo: 24},{foo:10}];
+var d = d3.scan(array, function(a, b) { return a.foo - b.foo;});
+var e= d3.scan(array, function(a, b) { return b.foo  - a.foo; });
+console.log(d);
+console.log(e);
+
+
+var array = [42, 34, 27, 53, 61, 71, 33, 51, 87, 91]; 
+        var value1 = 63; 
+        var pos = d3.bisect(array, value1, 2, 5); 
+        console.log(value1 + " needs to be inserted at "  
+        + pos); 
+  
+        var pos2 = d3.bisectRight(array, value1, 5, 9); 
+        console.log(value1 + " needs to be inserted at "  
+        + pos2); 
+        var value3 = 73; 
+        var pos3 = d3.bisectLeft(array, value3); 
+        console.log(value3 + " needs to be inserted at "  
+        + pos3 ); 
+        console.log();
+console.log("ascending");
+        
+    function ascending(a, b) {
+  return a < b ? -1 : a > b ? 1 : a >= b ? 0 : NaN;
+}
+console.log(d3.ascending(3,5));
+console.log();
+console.log("descending");
+
+
+function descending(a, b) {
+  return (b < a ? -1 : b > a ? 1 : b >= a ? 0 : NaN);
+}
+console.log(d3.descending(3,5));
+console.log(d3.descending(3,3));
+console.log(d3.descending(5,3));
+
+    </script>
+
+    
+</body>
+</html>
