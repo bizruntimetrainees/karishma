@@ -1,0 +1,27 @@
+
+input.demo {
+    border: 2px solid blueviolet;
+    color: darkgreen;
+    width: 350px;
+    height: 30px;
+    font-size: 25px;
+}
+div.dem {
+    color: indianred;
+    background: khaki;
+
+
+}
+div.demm{
+
+    color: deepskyblue;
+    background: darkblue;
+}
+div.demodate
+{
+    color: springgreen;
+float: right;
+    background: salmon;
+    width: 200px;
+    height: 30px;
+}
