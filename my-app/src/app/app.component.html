@@ -1,0 +1,18 @@
+ <h1>Reactive Forms</h1> 
+ <nav>
+   
+    <button> 
+      <a (click)="toggleEditor('name')">Name Editor</a>
+    </button>
+  
+
+<button>
+  
+      <a (click)="toggleEditor('profile')">Profile Editor</a>
+  </button>
+
+ </nav>
+ 
+ <app-name-editor *ngIf="showNameEditor"></app-name-editor>
+
+<app-profile-editor *ngIf="showProfileEditor"></app-profile-editor>

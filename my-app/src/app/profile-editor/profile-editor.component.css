@@ -1,0 +1,36 @@
+:host {
+    display: flex;
+    flex-direction: column;
+    padding-top: 14px;
+}
+label {
+ display: block;
+ width: 6em;
+ margin: 5em 0;
+ color: cornflowerblue;
+ font-weight: bold;
+}
+input {
+    height: 2em;
+    font-size: 1em;
+    padding-left: .4em;
+
+}
+button{
+    font-family: Arial;
+    background-color: darkkhaki;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 2px;
+    cursor: pointer;
+
+}
+button:hover {
+    background-color: darkseagreen;
+
+}
+button:disabled {
+    background-color: darkseagreen;
+    color: #ccc;
+    cursor: auto;
+}
